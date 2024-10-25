@@ -1,6 +1,6 @@
 # Projet RCS
 
-Ce projet est une implémentation d'un système de contrôle de version (RCS) avec des tests unitaires.
+Ce projet est une implémentation d'un système de jeu Pierre Feuille Ciseaux (RCS) avec des tests unitaires.
 
 ## Prérequis
 
