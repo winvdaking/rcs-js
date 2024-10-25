@@ -3,7 +3,7 @@ const { getComputerChoice, determineWinner } = require('../rcs');
 /**
  * Tests unitaires
  */
-describe('rcs', () => {
+describe('rps', () => {
   describe('getComputerChoice', () => {
     it('doit retourner un choix valide', () => {
       const choice = getComputerChoice();
